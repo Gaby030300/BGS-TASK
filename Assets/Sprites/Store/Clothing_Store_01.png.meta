@@ -1,0 +1,2806 @@
+fileFormatVersion: 2
+guid: 826895c7820f75847bc4813f4b7d26a1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Clothing_Store_01_0
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 720
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607d156a20ae74649843791bc86b4f5c
+      internalID: 1231335517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_1
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 762
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdd86d452d30fe46a3e93abb19183d2
+      internalID: 1073664794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 753
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc00079512ab5f43b266adca207fa8c
+      internalID: -1816714675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 720
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9422a2fb6067249b00f38fe32356b3
+      internalID: 1514593425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 720
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fae15ff4568244bb61c443c68905c7
+      internalID: 605900722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 720
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c2db46188247b46b94b8691c36b5df
+      internalID: -2052697449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 720
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786bb3537e7831c458524dbc5ce97e18
+      internalID: -920126160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 720
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9707c3e4daa8cc046a19b6408f2553e9
+      internalID: 1705694606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 720
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b9c5b0a78f8ee468b8a8d9f0dcbe0a
+      internalID: -2079932529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 720
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0120cd167a511ee439da0221fd3bda07
+      internalID: 1765906663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 720
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fb8b49ebc756d4a9fe0710f4dbaed0
+      internalID: 1736645790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_11
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 720
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288553be11b4be04c936bc6c86cd9e4d
+      internalID: -1369320673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_12
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 720
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12901106be53bc1489582562b846d55b
+      internalID: -63989483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 672
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c84c5cd7c989b94fad2d52747ff4046
+      internalID: 1303439760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 672
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab771d3fb90d9d44b232d8101f51e0a
+      internalID: -676405234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 672
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b5b8dc807d05e489d8ffb492c695ee
+      internalID: -1442639420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 672
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ba9a7f3d21e3849995369f6fff51c3
+      internalID: 1102679020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 672
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2186a5dbb2b564096fe7b503c731b7
+      internalID: -1589943375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 672
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4297f1fe999843a4bba68755b9433f14
+      internalID: 618187569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 672
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf01cbceaf9b4c441b255a601c1fcd11
+      internalID: -218248015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_20
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 651
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea01523210cd42f4ba47dd9f23c4d9ef
+      internalID: -738020366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_21
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 687
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d8c49801247d547961cebc355313b0
+      internalID: 1771480746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_22
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 693
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d43ebdebcbe4a64d8264f4091c5eba6
+      internalID: 1459439696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_23
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 693
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737164854a4510848837e1a112b472b5
+      internalID: 1950517390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_24
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 675
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce80a30965df6624983ec6b34324d7ef
+      internalID: -632587109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_25
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 633
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b03b8fced46044082f4f7988f799c9
+      internalID: 131232888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_26
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 633
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa382c30f153474e82d16de5827792b
+      internalID: 1507418689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 48
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80701e412887d704691eba2954a4104a
+      internalID: -1219013215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 624
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aece538d7829e49ab495ec4f4339dc
+      internalID: 499013954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 624
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4979c4cdcb4f94c9635be1381b1877
+      internalID: 1668034758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 624
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed43321e972fe5945a7ba0c647ec87cb
+      internalID: -784954262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_31
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 624
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7773e0bbfb0a58e48ba0f45a74392eef
+      internalID: 86292267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_32
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 624
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c40332d1a464b47ac7b1d352f81d4c
+      internalID: -1924179585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_33
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 624
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560eb45c44500b94892c4d70383c7d67
+      internalID: 1473717094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_34
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 624
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd09999a409f4f499f18e740f35baad
+      internalID: 175746075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_35
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 639
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e3bc98245948d44bbcaa0cdfb792ff
+      internalID: -2001535758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_36
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 645
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71935aece0df2e840a5c1d74f3513684
+      internalID: 783155442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_37
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 645
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056eecc70242d714180270cb7f073501
+      internalID: 956917066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_38
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 627
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777f146156efa2b4eaa22c10bf64929e
+      internalID: 2133326755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 576
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39508bed33107b48903c8340eb75a59
+      internalID: 1720102458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_40
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 576
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0d134dfbd32ed49a8edde31247c48f
+      internalID: -761207789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_41
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 576
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f92cee39d7b17428f3322f2edad900
+      internalID: 1954704510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_42
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 576
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f9fd3463c484847ab006cd8d8911a2
+      internalID: 2007587746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_43
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 576
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039d26be4037861418a0d3449c733373
+      internalID: -2123695512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_44
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 576
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f82312a33fcb6349bb29aec507d9763
+      internalID: -939378814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_45
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 576
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb38868a5524cb4ea32785e88c4d2e8
+      internalID: -1167578853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_46
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 576
+        width: 75
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db899448948abf4787516998d8b0e62
+      internalID: -654994313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_47
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 582
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87b0fffaf1e3054b8faa66591144a72
+      internalID: 667660146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_48
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 597
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c67f14e8e8bb64ba58a06b57a7cd7a
+      internalID: -832762402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_49
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 597
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a91cd3efa36b6449568c093c640726
+      internalID: 526497507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_50
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 579
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699032813dd7cc64e8ef6e2a7c405731
+      internalID: -1959378948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_51
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 531
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5175fb6cfd77f4c9e478ebad90734a
+      internalID: 1560308458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 528
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64882b7b57a729146925ab2b5e45c973
+      internalID: 227422192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_53
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 528
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e54791b69fb1034a9ce6f5363732231
+      internalID: -370279400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 528
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7356e360696b5434dad47e6a8ec835e8
+      internalID: -610782484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_55
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 528
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9340e245bde11c1409a0d59ee48a356b
+      internalID: 1664060912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_56
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 528
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd81ea22ad9ec004c83dd6d225fdf402
+      internalID: -1079659683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_57
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 528
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d1bfa0e5820264d9da0339f9419a6c
+      internalID: 1501222740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_58
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 528
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5695b45577b2f44d8cd8a66a516b36a
+      internalID: -796169372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_59
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 507
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2737908b17f080d409dcd2fe9adead89
+      internalID: 816893322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_60
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 534
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96115a108b3fc4d46a1fc671022da298
+      internalID: -2130124477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_61
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 384
+        width: 66
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9e0bfbd4c4d89499899b701a69c706
+      internalID: 1641891140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_62
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 288
+        width: 78
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fdd70833888ce4e83de326229aa642
+      internalID: 714057471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_63
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 385
+        width: 287
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a923570ad0cad4ab3a9326cc822422
+      internalID: -802019123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_64
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 471
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd7a3e6ccde9b744aca95d4175ec94e
+      internalID: -775421350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 486
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ad85f31661021479da5491ea4b13ec
+      internalID: -337454970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_66
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 435
+        width: 36
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7470c938fbf983429e93138a9a3f5d4
+      internalID: 1952196874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_67
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 432
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbf1251de777d74faff849538cf89dc
+      internalID: -1217034056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 438
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0a086a0cac58e48a845e819e2fcf03
+      internalID: -164413419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_69
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 375
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5338bb35cf0c548b379172bec4e7f1
+      internalID: 1005825049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_70
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 384
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d792be854f82843aeb8e986d1ea45f
+      internalID: 200521576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f4c34c45dffad43bb71c7926fd303a
+      internalID: -64006436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_72
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 261
+        width: 39
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9926c516492833a4e98c47ce28f4a729
+      internalID: -7808091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 291
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1dc09a2493e9845a4aedcf16c4ccb7
+      internalID: 1769418506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_74
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 321
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7197c2b2fa2d87d4686ad5d6f7d2b5da
+      internalID: -1668032651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_75
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 297
+        width: 90
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0269e8c8a5baa48a29c74f6ba6d8ee
+      internalID: 680894497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_76
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 267
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9082e4e0aeeec41946f67ceb43f4b7
+      internalID: 576802910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_77
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc11218a03df294c8369ab73beb59a3
+      internalID: -2078487585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_78
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 276
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687b4caf26d37cf42a9289ac97ee114d
+      internalID: -346127105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_79
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 276
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32ec7e532fcc404880b13a49eb16bda
+      internalID: -1174315971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_80
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 279
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d12734303927af449c2044b989c48ec
+      internalID: 1946438163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_81
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 192
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9383f1fad26a2a4398c7bbaf24b2f2d
+      internalID: 203148060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2438981fdcc548f45ab1686780022518
+      internalID: -1794283458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_83
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 225
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709228308469cbe49a7b42176cb013d0
+      internalID: 1644871424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_84
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 201
+        width: 90
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3864955abcccc584ba66ad29fdd12c70
+      internalID: 1568383796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6d014345cfd6a43b3d66d8ff8ae2b7
+      internalID: 331831475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_86
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 144
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aebd0f6da95ad944aaeaa6b8bf89e51
+      internalID: 1783131193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_87
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 183
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5655c932aaa5cac4a8b4615e2253b3d8
+      internalID: -1133228957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_88
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 153
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad707d88c010c745a8538fce6ef9455
+      internalID: 2119634918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_89
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 153
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d32056152fa32c47a2245e16df0608b
+      internalID: -1356488880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_90
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 153
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934973e6c74f49b47bd174cf8395aabd
+      internalID: -804610318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_91
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 159
+        width: 141
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bab872fcd03bd428a7908b27c4875d
+      internalID: 1514181979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_92
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 153
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2654b3d772e4bb048825674f103d477d
+      internalID: 1207872252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_93
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 144
+        width: 75
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98917336ca6a444182a57b616894d36
+      internalID: -1182332244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_94
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 144
+        width: 75
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa8879a52155b04dbc201987630fb65
+      internalID: 935397930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_95
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 105
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c451d105227d70a4392aef4b7b42ebf7
+      internalID: 762891718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_96
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 105
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eda2a29b03760d4d91f0d09bdb5722a
+      internalID: 456888658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_97
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 36
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6322e18e50b579045af2b92157098e33
+      internalID: -378991641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_98
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 90
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe0ec361848a964592a9724fd8e1828
+      internalID: 1278054651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_99
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 102
+        width: 81
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d70422674a86849a2d0a07ae34d9e7
+      internalID: -1384506044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_100
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 102
+        width: 81
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9626de07df5524fa2db318644fc565
+      internalID: 68610305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_101
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 75
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cad576ef0aa03646922301dcc782b3b
+      internalID: 1639311596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_102
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 102
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b82d9c64a5e71b44b3d4b071197fe1d
+      internalID: 1818856116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_103
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 102
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe842b943d7360544806cc66a247a89b
+      internalID: -1496114546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_104
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 57
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1a0d6bf93a9f048ac7008cb125dd8d
+      internalID: 1776506174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_105
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 57
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df09fb5bdc8a7a546a66a18b4342294f
+      internalID: -718065778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_106
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 57
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c642b9590a3a0c4449522d96bb0719f4
+      internalID: -2040130077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_107
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 81
+        width: 51
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccbbaccc33ee594990944d79edfe82f
+      internalID: -911482605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_108
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 48
+        width: 75
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed45c66a631f3746ad7602de642d898
+      internalID: -899204335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_109
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 48
+        width: 75
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb60d5a9fd60a8244bbeeae1ac00d6db
+      internalID: -2072615827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_110
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 54
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2317566f1d721d34b883a495a0a3e96a
+      internalID: 481739150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_111
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 54
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981f02b1291aa7a46833058fcea00ec9
+      internalID: -1167110923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_112
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 9
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11813e1f1bcebf848abfa6a12a268dd4
+      internalID: 156575974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_113
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 9
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce24ce45ab5fd7743b49865e06590b58
+      internalID: 1361563129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_114
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa0128f3c0874d488d2627a6855a5c8
+      internalID: -620141365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_115
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 6
+        width: 81
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1233177b4a46002419a1c52d674958e3
+      internalID: -525974046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_116
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 6
+        width: 81
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77dd78833c87c6499ee5924a92b0813
+      internalID: 124890270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_117
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 6
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d648fcbe1ff704940b72184817f8c7cb
+      internalID: 930396281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_118
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 6
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b80c81ad1cb0f4ebb6b286caa05b77
+      internalID: 1170504054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_119
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 6
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9b1ca75488b33468f4f5758ea1a898
+      internalID: -982561013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_120
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 6
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1574222572514643a7ff846bf2630fc
+      internalID: 970824566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clothing_Store_01_121
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f676d5de10fdf46af144ee043bea52
+      internalID: 244053407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Clothing_Store_01_93: -1182332244
+      Clothing_Store_01_15: -1442639420
+      Clothing_Store_01_110: 481739150
+      Clothing_Store_01_59: 816893322
+      Clothing_Store_01_68: -164413419
+      Clothing_Store_01_86: 1783131193
+      Clothing_Store_01_89: -1356488880
+      Clothing_Store_01_33: 1473717094
+      Clothing_Store_01_88: 2119634918
+      Clothing_Store_01_47: 667660146
+      Clothing_Store_01_107: -911482605
+      Clothing_Store_01_101: 1639311596
+      Clothing_Store_01_45: -1167578853
+      Clothing_Store_01_58: -796169372
+      Clothing_Store_01_40: -761207789
+      Clothing_Store_01_2: -1816714675
+      Clothing_Store_01_99: -1384506044
+      Clothing_Store_01_37: 956917066
+      Clothing_Store_01_56: -1079659683
+      Clothing_Store_01_60: -2130124477
+      Clothing_Store_01_9: 1765906663
+      Clothing_Store_01_87: -1133228957
+      Clothing_Store_01_42: 2007587746
+      Clothing_Store_01_28: 499013954
+      Clothing_Store_01_94: 935397930
+      Clothing_Store_01_55: 1664060912
+      Clothing_Store_01_121: 244053407
+      Clothing_Store_01_48: -832762402
+      Clothing_Store_01_115: -525974046
+      Clothing_Store_01_112: 156575974
+      Clothing_Store_01_75: 680894497
+      Clothing_Store_01_10: 1736645790
+      Clothing_Store_01_18: 618187569
+      Clothing_Store_01_53: -370279400
+      Clothing_Store_01_81: 203148060
+      Clothing_Store_01_83: 1644871424
+      Clothing_Store_01_62: 714057471
+      Clothing_Store_01_12: -63989483
+      Clothing_Store_01_70: 200521576
+      Clothing_Store_01_69: 1005825049
+      Clothing_Store_01_78: -346127105
+      Clothing_Store_01_74: -1668032651
+      Clothing_Store_01_6: -920126160
+      Clothing_Store_01_80: 1946438163
+      Clothing_Store_01_65: -337454970
+      Clothing_Store_01_26: 1507418689
+      Clothing_Store_01_95: 762891718
+      Clothing_Store_01_43: -2123695512
+      Clothing_Store_01_66: 1952196874
+      Clothing_Store_01_108: -899204335
+      Clothing_Store_01_8: -2079932529
+      Clothing_Store_01_90: -804610318
+      Clothing_Store_01_39: 1720102458
+      Clothing_Store_01_4: 605900722
+      Clothing_Store_01_29: 1668034758
+      Clothing_Store_01_102: 1818856116
+      Clothing_Store_01_98: 1278054651
+      Clothing_Store_01_96: 456888658
+      Clothing_Store_01_119: -982561013
+      Clothing_Store_01_104: 1776506174
+      Clothing_Store_01_36: 783155442
+      Clothing_Store_01_64: -775421350
+      Clothing_Store_01_116: 124890270
+      Clothing_Store_01_25: 131232888
+      Clothing_Store_01_105: -718065778
+      Clothing_Store_01_21: 1771480746
+      Clothing_Store_01_1: 1073664794
+      Clothing_Store_01_3: 1514593425
+      Clothing_Store_01_7: 1705694606
+      Clothing_Store_01_35: -2001535758
+      Clothing_Store_01_19: -218248015
+      Clothing_Store_01_46: -654994313
+      Clothing_Store_01_54: -610782484
+      Clothing_Store_01_97: -378991641
+      Clothing_Store_01_63: -802019123
+      Clothing_Store_01_50: -1959378948
+      Clothing_Store_01_51: 1560308458
+      Clothing_Store_01_57: 1501222740
+      Clothing_Store_01_118: 1170504054
+      Clothing_Store_01_14: -676405234
+      Clothing_Store_01_72: -7808091
+      Clothing_Store_01_92: 1207872252
+      Clothing_Store_01_32: -1924179585
+      Clothing_Store_01_30: -784954262
+      Clothing_Store_01_11: -1369320673
+      Clothing_Store_01_91: 1514181979
+      Clothing_Store_01_23: 1950517390
+      Clothing_Store_01_114: -620141365
+      Clothing_Store_01_61: 1641891140
+      Clothing_Store_01_117: 930396281
+      Clothing_Store_01_0: 1231335517
+      Clothing_Store_01_100: 68610305
+      Clothing_Store_01_27: -1219013215
+      Clothing_Store_01_5: -2052697449
+      Clothing_Store_01_120: 970824566
+      Clothing_Store_01_34: 175746075
+      Clothing_Store_01_76: 576802910
+      Clothing_Store_01_82: -1794283458
+      Clothing_Store_01_52: 227422192
+      Clothing_Store_01_73: 1769418506
+      Clothing_Store_01_109: -2072615827
+      Clothing_Store_01_17: -1589943375
+      Clothing_Store_01_24: -632587109
+      Clothing_Store_01_44: -939378814
+      Clothing_Store_01_84: 1568383796
+      Clothing_Store_01_71: -64006436
+      Clothing_Store_01_77: -2078487585
+      Clothing_Store_01_49: 526497507
+      Clothing_Store_01_106: -2040130077
+      Clothing_Store_01_103: -1496114546
+      Clothing_Store_01_31: 86292267
+      Clothing_Store_01_38: 2133326755
+      Clothing_Store_01_16: 1102679020
+      Clothing_Store_01_22: 1459439696
+      Clothing_Store_01_111: -1167110923
+      Clothing_Store_01_13: 1303439760
+      Clothing_Store_01_79: -1174315971
+      Clothing_Store_01_20: -738020366
+      Clothing_Store_01_67: -1217034056
+      Clothing_Store_01_41: 1954704510
+      Clothing_Store_01_85: 331831475
+      Clothing_Store_01_113: 1361563129
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
