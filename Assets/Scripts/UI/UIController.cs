@@ -16,6 +16,8 @@ public class UIController : MonoBehaviour
     [Header("Store and Inventory Panels UI")]
     [SerializeField] private CanvasGroup _storePanel, _inventoryPanel;
 
+    [Header("Audio Source")] 
+    [SerializeField] private AudioSource _audioSource;
    private void Start()
     {
         _buttonInventory.onClick.AddListener(OpenInventory);
@@ -25,6 +27,7 @@ public class UIController : MonoBehaviour
 
     private void OpenInventory()
     {
+        _audioSource.Play();
         _inventoryPanel.alpha = 1f;
         _inventoryPanel.blocksRaycasts = true;
         _inventoryPanel.interactable = true;
@@ -32,6 +35,7 @@ public class UIController : MonoBehaviour
     }
     private void CloseInventory()
     {
+        _audioSource.Play();
         _inventoryPanel.alpha = 0f;
         _inventoryPanel.blocksRaycasts = false;
         _inventoryPanel.interactable = false;
@@ -40,6 +44,7 @@ public class UIController : MonoBehaviour
     
     private void CloseStore()
     {
+        _audioSource.Play();
         _storePanel.alpha = 0f;
         _storePanel.blocksRaycasts = false;
         _storePanel.interactable = false;
@@ -53,6 +58,7 @@ public class UIController : MonoBehaviour
         {
             _alertIcon.SetActive(true);
        
+            _audioSource.Play();
             _storePanel.alpha = 1f;
             _storePanel.interactable = true;
             _storePanel.blocksRaycasts = true;

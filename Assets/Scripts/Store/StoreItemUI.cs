@@ -18,6 +18,10 @@ public class StoreItemUI : MonoBehaviour
 
     private InventoryUI _inventoryManager;
     private StoreManager _storeManager;
+
+
+    [Header("Audio Source")] 
+    [SerializeField] private AudioSource _audioSource; 
     
    
     private void Start()
@@ -43,6 +47,7 @@ public class StoreItemUI : MonoBehaviour
         {
             _storeManager.playerMoney -= storeItem.price;
             _storeManager.moneyText.text = "$" + _storeManager.playerMoney;
+            _audioSource.Play();
             _inventoryManager.AddToInventory(storeItem);
         }
         else
