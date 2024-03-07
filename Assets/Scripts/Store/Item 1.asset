@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Item 1
   m_EditorClassIdentifier: 
   itemName: Urban Comfort Tee
-  sprite: {fileID: 605900722, guid: 826895c7820f75847bc4813f4b7d26a1, type: 3}
+  sprite: {fileID: 1765906663, guid: 826895c7820f75847bc4813f4b7d26a1, type: 3}
   description: T-shirts so soft, they hug your torso like a koala hugs a tree!
   price: 20
-  quantity: 0
+  quantity: 1

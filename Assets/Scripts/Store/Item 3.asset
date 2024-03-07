@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Item 3
   m_EditorClassIdentifier: 
   itemName: Weekend Vibes Tee
-  sprite: {fileID: -2079932529, guid: 826895c7820f75847bc4813f4b7d26a1, type: 3}
+  sprite: {fileID: -1079659683, guid: 826895c7820f75847bc4813f4b7d26a1, type: 3}
   description: 'T-shirts: the casual armor of everyday heroes!'
   price: 28
-  quantity: 0
+  quantity: 1

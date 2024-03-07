@@ -383,7 +383,6 @@ MonoBehaviour:
   _buttonCloseStore: {fileID: 1166048498}
   _storePanel: {fileID: 227011095}
   _inventoryPanel: {fileID: 631433841}
-  moneyText: {fileID: 1890117210}
 --- !u!1 &82664463
 GameObject:
   m_ObjectHideFlags: 0
@@ -4470,6 +4469,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 8db5c2705b70d664abb1dd975d963aaf, type: 2}
   content: {fileID: 534642693}
   storeItemPrefab: {fileID: 6408066678812410857, guid: 9cee6dbe85b5f954cbf56136e22186a8, type: 3}
+  moneyText: {fileID: 1890117210}
+  playerMoney: 0
 --- !u!1 &1158547945
 GameObject:
   m_ObjectHideFlags: 0
@@ -7624,7 +7625,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 105, y: 0}
+  m_AnchoredPosition: {x: 59.4, y: 3.7}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1890117210
@@ -7681,8 +7682,8 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0

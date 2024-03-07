@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Item 5
   m_EditorClassIdentifier: 
   itemName: Retro Revival Tee
-  sprite: {fileID: -2079932529, guid: 826895c7820f75847bc4813f4b7d26a1, type: 3}
+  sprite: {fileID: 2007587746, guid: 826895c7820f75847bc4813f4b7d26a1, type: 3}
   description: Want to make the world smile? Our shirts are designed to spread joy
     with every step
   price: 8
-  quantity: 0
+  quantity: 1

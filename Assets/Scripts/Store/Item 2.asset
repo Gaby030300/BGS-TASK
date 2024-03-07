@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Item 2
   m_EditorClassIdentifier: 
   itemName: Adventure Seeker Shirt
-  sprite: {fileID: 1514593425, guid: 826895c7820f75847bc4813f4b7d26a1, type: 3}
+  sprite: {fileID: -1670850621, guid: 3574c0d43170e9b4db6896335038070d, type: 3}
   description: Want to be the coolest in town? These shirts have more style than
     a penguin party!
   price: 15
-  quantity: 0
+  quantity: 1

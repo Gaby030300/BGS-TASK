@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Item 4
   m_EditorClassIdentifier: 
   itemName: Sunset Boulevard Tee
-  sprite: {fileID: -2079932529, guid: 826895c7820f75847bc4813f4b7d26a1, type: 3}
+  sprite: {fileID: -1167578853, guid: 826895c7820f75847bc4813f4b7d26a1, type: 3}
   description: Carry the positive attitude with you with our shirts that scream 'Yes,
     we can!
   price: 12
-  quantity: 0
+  quantity: 2
