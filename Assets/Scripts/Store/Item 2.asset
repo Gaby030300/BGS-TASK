@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 023b48d12a59dd74eb1ce183093cc55f, type: 3}
   m_Name: Item 2
   m_EditorClassIdentifier: 
-  itemName: Test Camisa 2
+  itemName: Adventure Seeker Shirt
   sprite: {fileID: 1514593425, guid: 826895c7820f75847bc4813f4b7d26a1, type: 3}
-  description: Es una camisa 2
-  price: 300
+  description: Want to be the coolest in town? These shirts have more style than
+    a penguin party!
+  price: 15
+  quantity: 0

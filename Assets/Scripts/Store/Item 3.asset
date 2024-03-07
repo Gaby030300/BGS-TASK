@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 023b48d12a59dd74eb1ce183093cc55f, type: 3}
   m_Name: Item 3
   m_EditorClassIdentifier: 
-  itemName: Test Camisa 3
+  itemName: Weekend Vibes Tee
   sprite: {fileID: -2079932529, guid: 826895c7820f75847bc4813f4b7d26a1, type: 3}
-  description: Es una camisa 3
-  price: 400
+  description: 'T-shirts: the casual armor of everyday heroes!'
+  price: 28
+  quantity: 0

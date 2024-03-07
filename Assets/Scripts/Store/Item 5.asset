@@ -10,10 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 023b48d12a59dd74eb1ce183093cc55f, type: 3}
-  m_Name: Item 1
+  m_Name: Item 5
   m_EditorClassIdentifier: 
-  itemName: Urban Comfort Tee
-  sprite: {fileID: 605900722, guid: 826895c7820f75847bc4813f4b7d26a1, type: 3}
-  description: T-shirts so soft, they hug your torso like a koala hugs a tree!
-  price: 20
+  itemName: Retro Revival Tee
+  sprite: {fileID: -2079932529, guid: 826895c7820f75847bc4813f4b7d26a1, type: 3}
+  description: Want to make the world smile? Our shirts are designed to spread joy
+    with every step
+  price: 8
   quantity: 0

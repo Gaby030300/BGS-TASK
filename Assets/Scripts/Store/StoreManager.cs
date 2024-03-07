@@ -1,5 +1,7 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class StoreManager : MonoBehaviour
@@ -10,9 +12,15 @@ public class StoreManager : MonoBehaviour
     [Header("UI Store Panel")]
     [SerializeField] private  RectTransform content; 
     [SerializeField] private  GameObject storeItemPrefab;
+    
+    [Header("Player Money")] 
+    public TMP_Text moneyText;
+    public int playerMoney;
 
     private void Start()
     {
+        playerMoney = 1000;
+        
         for (int i = 0; i < items.Count; i++)
         {
             if (storeItemPrefab != null)

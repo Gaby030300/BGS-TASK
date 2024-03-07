@@ -17,10 +17,13 @@ public class StoreItemUI : MonoBehaviour
     [SerializeField] private  Button buyButton;
 
     private InventoryUI _inventoryManager;
+    private StoreManager _storeManager;
     
+   
     private void Start()
     {
         _inventoryManager = FindObjectOfType<InventoryUI>();
+        _storeManager = FindObjectOfType<StoreManager>();
         buyButton.onClick.AddListener(BuyItem);
     }
 
@@ -36,6 +39,15 @@ public class StoreItemUI : MonoBehaviour
 
     private void BuyItem()
     {
-        _inventoryManager.AddToInventory(storeItem);
+        if (_storeManager.playerMoney >= storeItem.price)
+        {
+            _storeManager.playerMoney -= storeItem.price;
+            _storeManager.moneyText.text = "$" + _storeManager.playerMoney;
+            _inventoryManager.AddToInventory(storeItem);
+        }
+        else
+        {
+            Debug.Log("Not enough money to buy " + storeItem.itemName);
+        }
     }
 }

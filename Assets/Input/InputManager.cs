@@ -22,6 +22,6 @@ public class InputManager : MonoBehaviour
     private void Update()
     {
         Movement = _moveAction.ReadValue<Vector2>();
-        EPressed = _buttonAction.IsPressed();
+        EPressed = _buttonAction.triggered;
     }
 }
